@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple_Dashboard-React/static/css/main.b6c6f628.css",
+    "main.js": "/Simple_Dashboard-React/static/js/main.7e6667b0.js",
+    "index.html": "/Simple_Dashboard-React/index.html",
+    "main.b6c6f628.css.map": "/Simple_Dashboard-React/static/css/main.b6c6f628.css.map",
+    "main.7e6667b0.js.map": "/Simple_Dashboard-React/static/js/main.7e6667b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c6f628.css",
+    "static/js/main.7e6667b0.js"
+  ]
+}
